@@ -1,0 +1,902 @@
+[
+    {
+        "quote": "Men moet eten om te leven, niet leven om te eten.",
+        "author": "Socrates"
+    },
+    {
+        "quote": "Preciso es encontrar lo infinitamente grande en lo infinitamente pequeño, para sentir la presencia de Dios.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "La amistad es el vínculo de dos almas virtuosas.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "“Si” y “no” son las palabras más antiguas y simples, pero que requieren más reflexión.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "Elige más bien ser fuerte de alma que fuerte de cuerpo.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "En tres partes se divide el alma humana: en mente, en sabiduría y en ira.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "No te vuelvas enemigo del hombre del cual dejas de ser amigo.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "Ayuda a tus semejantes a levantar su carga, pero no te consideres obligado a llevársela.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "Purifica tu corazón antes de permitir que el amor se asiente en él, ya que la miel más dulce se agria en un vaso sucio.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "Nada perece en el universo; todo cuando acontece en él no pasa de meras transformaciones.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "Mide tus deseos, pesa tus opiniones, cuenta tus palabras.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "La preocupación germina en la cuna de la ignorante pereza.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "Evitad todo aquello que pueda atraer a la envidia.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "La libertad dijo un día a la ley: “Tú me estorbas”. La ley respondió a la libertad: “Yo te guardo”.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "Sobre todas las cosas, respétate a ti mismo.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "Hombre, no seas esclavo ni tirano de tu mujer.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "Si sufres injusticias, consuélate, porque la verdadera desgracia es cometerlas.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "La razón es inmortal, todo lo demás es mortal.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "Lo máximo que tiene el hombre es el alma, que lo induce al bien o al mal.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "Los números gobiernan el universo.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "¡Oh legislador! No me des leyes para los pueblos, sino pueblos para las leyes.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "Cuando más hacemos, más podemos hacer; cuando estamos más ocupados es cuando tenemos más tiempo para divertirnos.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "La habilidad y la necesidad habitan cerca una de la otra.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "La filosofía es un afán del saber libre y desinteresado.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "Los hombres que siempre hablan de la verdad son los que más se aproximan a Dios.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "No seas ambicioso y tacaño; la justa medida es excelente en tales casos.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "Elige una mujer de la cual puedas decir: Yo hubiera podido buscarla más bella pero no mejor.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "La sal nace de los padres más puros: el sol y el mar.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "Practica la justicia con palabras y hechos, y no tengas el hábito de actuar sin pensar.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "El silencio es la primera piedra del templo de la Filosofía.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "De todas las cosas se pueden hacer dos afirmaciones y que sean completamente contrarias.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "No se debe abandonar el puesto sin permiso de aquel que manda. El puesto del hombre es la vida.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "Los números tienen personalidades, características, fortalezas y debilidades.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "Descansa satisfecho de hacerlo bien y deja que otros hablen de ti como les plazca.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "Hay geometría en el zumbido de las cuerdas. Hay música en el espacio entre las esferas.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "Todo lo que el hombre hace a los animales, regresa de nuevo a él.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "Una tonelada de ciencia no vale más que una gota de sabiduría.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "Sobre la nube con su sombra está la estrella con su luz.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "Perdona a tu hijo si confiesa su falta, también si la oculta; pero no si la niega.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "No revuelvas el fuego con un cuchillo.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "El orden es el más hermoso ornamento de una casa.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "Abandona los grandes caminos, sigue los senderos.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "Sé bueno al igual que los que fueron buenos contigo.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "El poder es el vecino cercano de la necesidad.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "Tan pronto como se despiertes, pon en orden las acciones que realizarás el próximo día.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "No veas en tu enemigo más que un amigo extraviado.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "Un golpe de tu amigo es mejor que un beso de tu enemigo.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "La mejor venganza es ser diferente a quien causó el daño.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "El arte de vivir se asemeja más a la lucha que a la danza.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "El mundo no es más que transformación, y la vida, opinión solamente.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Tranquilo a la vez que resuelto, alegre a la par que consistente, es el hombre que en todo sigue la razón.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Lo que no es útil para la colmena, no es útil para la abeja.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Una sola es la luz del sol, aunque la obstaculicen muros, montes, incontables impedimentos.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "No malgastes más tiempo argumentando acerca de lo que debe ser un buen hombre. Trata de ser uno.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "El tiempo es como un río que arrastra rápidamente todo lo que nace.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "En ninguna parte puede hallar el hombre un retiro tan imperturbable y tranquilo como en la intimidad de su alma.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "La mejor venganza es ser diferente a quien causó el daño.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "No permitas que tu memoria se enajene de las cosas que tienes, sino de las que te hagan falta.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "La dulzura, cuando es sincera, es una fuerza invencible.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "No obres como si fueras a vivir mil años; obra como si el fin estuviera muy cerca.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Realiza cada una de tus acciones como si fuera la última de tu vida.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una perspectiva, no la verdad.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Cuánto tiempo ahorra el que no se da la vuelta para ver lo que su vecino hace, dice o piensa.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Recibe sin orgullo, despréndete sin apego.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Comenzar es la mitad del trabajo, comienza nuevamente con la mitad restante, y habrás terminado.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Tienes poder sobre tu mente, no sobre los acontecimientos. Date cuenta de esto y encontrarás la fuerza.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Recuerda que ni el futuro ni el pasado te son gravosos, sino siempre el presente. Y éste se minimiza, si lo delimitas exclusivamente a sí mismo.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Habla, sea en el Senado, sea ante cualquiera, con elegancia y certeramente. Utiliza una terminología sana.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Cada vez que estés a punto de señalar un defecto en otra persona, hazte la siguiente pregunta: ¿Qué defecto en mí se parece al que estoy a punto de criticar?",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Cada vez que estés a punto de señalar un defecto en otra persona, hazte la siguiente pregunta: ¿Qué defecto en mí se parece al que estoy a punto de criticar?",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "No hay nada más difícil que una línea.",
+        "author": "Pablo Picasso"
+    },
+    {
+        "quote": "La juventud no tiene edad.",
+        "author": "Pablo Picasso"
+    },
+    {
+        "quote": "El paraíso es amar muchas cosas con pasión.",
+        "author": "Pablo Picasso"
+    },
+    {
+        "quote": "La naturaleza hace muchas cosas de la manera en que yo las hago, ¡pero ella las esconde!",
+        "author": "Pablo Picasso"
+    },
+    {
+        "quote": "La inspiración existe, pero tiene que encontrarte trabajando.",
+        "author": "Pablo Picasso"
+    },
+    {
+        "quote": "Tu trabajo en la vida es tu máxima seducción.",
+        "author": "Pablo Picasso"
+    },
+    {
+        "quote": "Cualquier cosa nueva, cualquier cosa que valga la pena hacer, no puede ser reconocida.",
+        "author": "Pablo Picasso"
+    },
+    {
+        "quote": "¿Por qué suponer que mirar es ver?",
+        "author": "Pablo Picasso"
+    },
+    {
+        "quote": "Las personas que leen son personas que sueñan.",
+        "author": "Pablo Picasso"
+    },
+    {
+        "quote": "La música y el arte son las luces que guían el mundo.",
+        "author": "Pablo Picasso"
+    },
+    {
+        "quote": "Para dibujar, debes cerrar los ojos y cantar.",
+        "author": "Pablo Picasso"
+    },
+    {
+        "quote": "La escultura es el mejor comentario que un pintor puede hacer sobre su pintura.",
+        "author": "Pablo Picasso"
+    },
+    {
+        "quote": "La imaginación es real.",
+        "author": "Pablo Picasso"
+    },
+    {
+        "quote": "Copiar a otros es necesario, pero copiarse a uno mismo es patético.",
+        "author": "Pablo Picasso"
+    },
+    {
+        "quote": "La mayor declaración de amor es la que no se hace; el hombre que siente mucho, habla poco.",
+        "author": "Platón"
+    },
+    {
+        "quote": "La libertad está en ser dueños de la propia vida.",
+        "author": "Platón"
+    },
+    {
+        "quote": "Todo es flujo, nada se queda quieto.",
+        "author": "Platón"
+    },
+    {
+        "quote": "La necesidad es la madre de la invención.",
+        "author": "Platón"
+    },
+    {
+        "quote": "Nunca hay desanimar a nadie que continuamente hace progresos, no importa lo lento que vaya.",
+        "author": "Platón"
+    },
+    {
+        "quote": "La ignorancia es la raíz y el tronco de cada mal.",
+        "author": "Platón"
+    },
+    {
+        "quote": "Cualquier hombre puede fácilmente hacer daño, pero no todos los hombres pueden hacer el bien a otro.",
+        "author": "Platón"
+    },
+    {
+        "quote": "El hombre es un ser en busca de sentido.",
+        "author": "Platón"
+    },
+    {
+        "quote": "Palabras falsas no sólo son malas en sí mismas, sino que infectan el alma con el mal.",
+        "author": "Platón"
+    },
+    {
+        "quote": "El principio es la parte más importante del trabajo.",
+        "author": "Platón"
+    },
+    {
+        "quote": "Todo lo que sé es la medida de mi propia ignorancia.",
+        "author": "Platón"
+    },
+    {
+        "quote": "De todos los animales, el niño es el más difícil de manejar.",
+        "author": "Platón"
+    },
+    {
+        "quote": "Todo lo que se llama estudiar y aprender no es otra cosa que recordar.",
+        "author": "Platón"
+    },
+    {
+        "quote": "La música es para el alma lo que la gimnasia para el cuerpo.",
+        "author": "Platón"
+    },
+    {
+        "quote": "El hombre inteligente habla con autoridad cuando dirige su propia vida.",
+        "author": "Platón"
+    },
+    {
+        "quote": "La medida de un hombre es lo que hace con el poder.",
+        "author": "Platón"
+    },
+    {
+        "quote": "Si bien buscas, encontrarás.",
+        "author": "Platón"
+    },
+    {
+        "quote": "Debemos buscar para nuestros males otra causa que no sea Dios.",
+        "author": "Platón"
+    },
+    {
+        "quote": "El carácter es simplemente un hábito largo y continuado.",
+        "author": "Platón"
+    },
+    {
+        "quote": "Las buenas acciones nos dan fuerza a nosotros mismos e inspiran las buenas acciones de los demás.",
+        "author": "Platón"
+    },
+    {
+        "quote": "La escritura es la geometría del alma.",
+        "author": "Platón"
+    },
+    {
+        "quote": "Hay en cada uno de nosotros, incluso aquellos que parecen ser los más moderados, un tipo de deseo que es terrible, salvaje y sin ley.",
+        "author": "Platón"
+    },
+    {
+        "quote": "La mejor tumba es la más sencilla.",
+        "author": "Platón"
+    },
+    {
+        "quote": "Si se espera que las mujeres hagan el mismo trabajo que los hombres, debemos enseñarles las mismas cosas.",
+        "author": "Platón"
+    },
+    {
+        "quote": "Los sabios hablan porque tienen algo que decir; los tontos porque tienen que decir algo.",
+        "author": "Platón"
+    },
+    {
+        "quote": "Si el semblante de la virtud pudiera verse, enamoraría a todos.",
+        "author": "Platón"
+    },
+    {
+        "quote": "En torno de la esencia está la morada de la ciencia.",
+        "author": "Platón"
+    },
+    {
+        "quote": "En todas las cosas, naturales y humanas, el origen es lo más excelso.",
+        "author": "Platón"
+    },
+    {
+        "quote": "Un recipiente vacío hace el sonido más fuerte, por eso los que tienen un menor ingenio son los más grandes charlatanes.",
+        "author": "Platón"
+    },
+    {
+        "quote": "Lo que se mueve por sí mismo es inmortal.",
+        "author": "Platón"
+    },
+    {
+        "quote": "El hombre embrutecido por la superstición es el más vil de los hombres.",
+        "author": "Platón"
+    },
+    {
+        "quote": "De virtud hay una especie, de maldad, muchas.",
+        "author": "Platón"
+    },
+    {
+        "quote": "No es en los hombres, sino en las cosas mismas, donde es preciso buscar la verdad.",
+        "author": "Platón"
+    },
+    {
+        "quote": "Así como los ojos están formados para la astronomía, los oídos lo están para percibir los movimientos de la armonía.",
+        "author": "Platón"
+    },
+    {
+        "quote": "El cuerpo humano es el carruaje; el yo, el hombre que lo conduce; el pensamiento son las riendas, y los sentimientos los caballos.",
+        "author": "Platón"
+    },
+    {
+        "quote": "El tiempo es la imagen de la eternidad en movimiento.",
+        "author": "Platón"
+    },
+    {
+        "quote": "Teme a la vejez, pues nunca viene sola.",
+        "author": "Platón"
+    },
+    {
+        "quote": "Tres facultades hay en el hombre: la razón que esclarece y domina; el coraje o ánimo que actúa, y los sentidos que obedecen.",
+        "author": "Platón"
+    },
+    {
+        "quote": "La civilización es la victoria de la persuasión sobre la fuerza.",
+        "author": "Platón"
+    },
+    {
+        "quote": "Los espíritus vulgares no tienen destino.",
+        "author": "Platón"
+    },
+    {
+        "quote": "Hay que tener el valor de decir la verdad, sobre todo cuando se habla de la verdad.",
+        "author": "Platón"
+    },
+    {
+        "quote": "No dejes crecer la hierba en el camino de la amistad.",
+        "author": "Platón"
+    },
+    {
+        "quote": "La filosofía es un silencioso diálogo del alma consigo misma en torno al ser.",
+        "author": "Platón"
+    },
+    {
+        "quote": "Al contacto del amor todo el mundo se vuelve poeta.",
+        "author": "Platón"
+    },
+    {
+        "quote": "Cuando una multitud ejerce la autoridad, es más cruel aún que los tiranos.",
+        "author": "Platón"
+    },
+    {
+        "quote": "La buena fe es el fundamento de toda sociedad, la perfidia es la peste.",
+        "author": "Platón"
+    },
+    {
+        "quote": "El objetivo de la educación es la virtud y el deseo de convertirse en un buen ciudadano.",
+        "author": "Platón"
+    },
+    {
+        "quote": "La burla y el ridículo son, entre todas las injurias, las que menos se perdonan.",
+        "author": "Platón"
+    },
+    {
+        "quote": "El amor consiste en sentir que el ser sagrado late dentro del ser querido.",
+        "author": "Platón"
+    },
+    {
+        "quote": "Son filósofos verdaderos aquellos a quienes gusta contemplar la verdad.",
+        "author": "Platón"
+    },
+    {
+        "quote": "El virtuoso se conforma con soñar lo que el pecador realiza en la vida.",
+        "author": "Platón"
+    },
+    {
+        "quote": "Todo lo que nace proviene necesariamente de una causa; pues sin causa nada puede tener origen.",
+        "author": "Platón"
+    },
+    {
+        "quote": "El más importante y principal negocio público es la buena educación de la juventud.",
+        "author": "Platón"
+    },
+    {
+        "quote": "Cada lágrima enseña a los mortales una verdad.",
+        "author": "Platón"
+    },
+    {
+        "quote": "Lo que no sé, tampoco creo saberlo.",
+        "author": "Platón"
+    },
+    {
+        "quote": "El que aprende y aprende y no practica lo que sabe es como el que ara y ara y no siembra.",
+        "author": "Platón"
+    },
+    {
+        "quote": "Los amigos se convierten con frecuencia en ladrones de nuestro tiempo.",
+        "author": "Platón"
+    },
+    {
+        "quote": "No hay hombre tan cobarde a quien el amor no haga valiente y transforme en héroe.",
+        "author": "Platón"
+    },
+    {
+        "quote": "Dos excesos deben evitarse en la educación de la juventud; demasiada severidad, y demasiada dulzura.",
+        "author": "Platón"
+    },
+    {
+        "quote": "La obra maestra de la injusticia es parecer justo sin serlo.",
+        "author": "Platón"
+    },
+    {
+        "quote": "Allí donde el mando es codiciado y disputado no puede haber buen gobierno ni reinará la concordia.",
+        "author": "Platón"
+    },
+    {
+        "quote": "Cuando la muerte se precipita sobre el hombre, la parte mortal se extingue; pero el principio inmortal se retira y se aleja sano y salvo.",
+        "author": "Platón"
+    },
+    {
+        "quote": "No digas pocas cosas en muchas palabras, sino muchas cosas en pocas palabras.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "Educar no es dar carrera para vivir, sino templar el alma para las dificultades de la vida.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "No hagas de tu cuerpo la tumba de tu alma.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "Más le vale a un hombre tener la boca cerrada y que los demás le crean tonto, que abrirla y que los demás se convenzan de que lo es.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "El que habla, siembra. El que escucha, recoge.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "La ira comienza en la locura, y termina en el arrepentimiento.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "Escribe en la arena las faltas de tu amigo.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "Entre dos hombres iguales en fuerza, el más fuerte es el que tiene la razón.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "Debes hacer grandes cosas, no prometer grandes cosas.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "El hombre es mortal por sus temores e inmortal por sus deseos.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "La felicidad consiste en poder unir el principio con el fin.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "Una bella ancianidad es, ordinariamente, la recompensa de una bella vida.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "Cállate o di algo mejor que el silencio.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "El legislador debe ser el eco de la razón, y el magistrado el eco de la ley.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "No despreciéis a nadie: un átomo hace sombra.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "Economizad las lágrimas de vuestros hijos a fin de que puedan regar con ellas vuestra tumba.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "No sabe hablar quien no sabe callar.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "Es difícil transitar al mismo tiempo por muchos caminos de la vida.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "La amistad es una igualdad armoniosa.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "Escucha, serás sabio; el comienzo de la sabiduría es el silencio.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "Prefiero el bastón de la experiencia que el carro rápido de la fortuna.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "El principio es la mitad del todo.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "No tengas más que una mujer y un amigo. Las fuerzas del cuerpo y del alma no toleran más.",
+        "author": "Pitágoras"
+    },
+    {
+        "quote": "Me gusta comer temprano, acostarme y levantarme pronto, en eso soy completamente antiespañol.",
+        "author": "Luis Bunuel"
+    },
+    {
+        "quote": "Hasta que la nube no llore, ¿cómo puede florecer el jardín?",
+        "author": "Rumi"
+    },
+    {
+        "quote": "El agua del arroyo cambia muchas veces, pero el reflejo de la luna y las estrellas en el agua siempre es el mismo.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Sé una lámpara, un bote salvavidas o una escalera. Ayuda a sanar el alma de alguien. Sal de tu casa como un pastor.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Donde hay ruina, hay esperanza para un tesoro.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Siembra el amor de los santos dentro de tu espíritu; no entregues tu corazón a nada salvo al amor de aquellos de corazones alegres.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Naciste con alas. ¿Por qué prefieres arrastrarte por la vida?",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Sospecha de lo que quieres.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Hay una fuerza invisible dentro de nosotros; cuando reconoce dos objetos opuestos de deseo, se fortalece.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Usa la gratitud como una capa y ésta cubrirá cada rincón de tu vida.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Ven aquí donde las rosas se han abierto. Deja que el alma y el mundo se conozcan.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Dios ha sembrado en tu corazón el deseo de buscarle.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Deja de actuar tan pequeño. Tú eres el universo entero en movimiento.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Una libertad secreta se abre a través de una grieta que apenas se puede ver.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "En vez de fiarte en tus defectos, concéntrate en la búsqueda.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "No te aflijas. Cualquier cosa que pierdas, regresa con otra forma distinta.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Lucha redoblando tus esfuerzos, para que tu alma pueda escapar de esta prisión material.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Todos han sido hechos para algún trabajo particular y el deseo por ese trabajo ha sido puesto en cada corazón.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Mi corazón se ha transformado en un lápiz que el Amado sostiene entre sus dedos.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "No te sientas satisfecho con las historias, con cómo le ha ido a los demás. Revela tu propio mito.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Debes derribar partes de un edificio para restaurarlo y lo mismo ocurre con una vida que no tiene espíritu.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Más allá de las ideas del bien y del mal, existe un campo. Allí nos encontraremos. Cuando el alma se acuesta en esa hierba, el mundo está demasiado lleno para hablar.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Quiero cantar como los pájaros cantan sin preocuparme por quién oye o lo que piensan.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Responde a toda llamada que excite tu espíritu.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Por medio del amor, lo amargo se vuelve dulce. Por medio del amor, el cobre se torna oro. Por medio del amor, el dolor se vuelve medicinal.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Cada uno ha sido fabricado para un trabajo en particular, y el deseo para ese trabajo ha sido puesto en cada corazón.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "He orado tanto que me he convertido en una plegaria viviente.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Hay una fuente dentro de ti. No camines con un cubo vacío.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Bebe la palabra de la Sabiduría, ya que es la luminosa luz que Dios te ha ocultado al igual que las nubes cubren el sol.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Las heridas son el lugar por donde entra la luz en ti.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Nunca dejes de recordar a Dios, ya que acordarse de Él da al ave del espíritu fuerza, pluma y alas.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Antes de que la muerte se lleve lo que se te ha dado, da lo que tienes para dar.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "El profeta contó que Dios dijo: no resido en el recipiente de lo elevado ni en el de lo bajo. Ni en la tierra ni en los cielos. Pero estoy en el corazón de mi fiel sirviente. ¡Qué maravilloso! Si me buscas, búscame ahí.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Trabaja en el mundo invisible al menos tan duro como haces en el visible.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Tu tarea no es buscar el amor, sino buscar y encontrar las barreras dentro de ti mismo que has construido contra él.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Responde a toda llamada que excite tu espíritu.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Estos dolores que sientes son mensajeros. Escúchalos.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Debes saber que el mundo de los seres creaos es como el agua clara y pura que refleja los atributos de Dios.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Aquí hay una carta para todo el mundo. Ábrela. Dice; vive.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Hay mil maneras de arrodillarse y besar la tierra.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "No me arrepiento de lo mucho que amo, y evito aquellos que se arrepienten de su pasión.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Cada uno ha sido fabricado para un trabajo en particular, y el deseo para ese trabajo ha sido puesto en cada corazón.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Los amantes no se encuentran en ningún lugar. Se encuentran el uno al otro todo el tiempo.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "¿Quién se levanta temprano para descubrir el momento en que comienza la luz?",
+        "author": "Rumi"
+    },
+    {
+        "quote": "¿No es hora de dar la vuelta a tu corazón, a un templo de fuego?",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Lo que buscas te está buscando a ti.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Trabaja en el mundo invisible al menos tan duro como haces en el visible.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Hay una canasta de pan fresco en tu cabeza y aun así vas de puerta en puerta pidiendo cortezas.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Dios te pasa de un sentimiento a otro y te enseña por medio de los opuestos, para que tengas dos alas para volar, no una.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "La brisa de la madrugada tiene secretos que contarte. No te vayas a dormir.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "El amor de Dios se arraiga en nuestro conocimiento de Dios.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "La belleza y la grandeza de Dios le pertenecen a Él.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "No pienses que el jardín pierde su éxtasis en invierno. Es silencioso, pero sus raíces están ahí debajo.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Solo desde el corazón puedes tocar el cielo.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Las heridas son el lugar por donde entra la luz en ti.",
+        "author": "Rumi"
+    },
+    {
+        "quote": "Tú, como lo ves todo, eres todo en ti.",
+        "author": "Rumi"
+    }
+]

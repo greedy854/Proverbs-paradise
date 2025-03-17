@@ -1,0 +1,842 @@
+[
+    {
+        "quote": "Il mio giardino è il mio capolavoro più bello.",
+        "author": "Claude Monet"
+    },
+    {
+        "quote": "Solo due cose mi appassionano: la pittura e il giardinaggio.",
+        "author": "Claude Monet"
+    },
+    {
+        "quote": "Devo avere fiori, sempre e sempre.",
+        "author": "Claude Monet"
+    },
+    {
+        "quote": "Prima sogno i miei dipinti, poi dipingo i miei sogni.",
+        "author": "Vincent van Gogh"
+    },
+    {
+        "quote": "Io penso spesso che la notte sia più viva e più riccamente colorata del giorno.",
+        "author": "Vincent van Gogh"
+    },
+    {
+        "quote": "L’unico momento in cui mi sento vivo è quando dipingo.",
+        "author": "Vincent van Gogh"
+    },
+    {
+        "quote": "Così il pennello sta alle mie dita come l’archetto al violino, e assolutamente per mio piacere.",
+        "author": "Vincent van Gogh"
+    },
+    {
+        "quote": "Vedo disegni e dipinti nei luoghi più poveri, negli angoli più sporchi.",
+        "author": "Vincent van Gogh"
+    },
+    {
+        "quote": "Nella mia febbre cerebrale o follia, non so come chiamarla, i miei pensieri hanno navigato molti mari.",
+        "author": "Vincent van Gogh"
+    },
+    {
+        "quote": "Le leggi dei colori sono inesprimibilmente belle, proprio perché non sono dovute al caso.",
+        "author": "Vincent van Gogh"
+    },
+    {
+        "quote": "Chi non ha imparato a dire ‘lei e nessun altra’ sa che cos’è che l’amore?",
+        "author": "Vincent van Gogh"
+    },
+    {
+        "quote": "Faccio sempre ciò che non so fare, per imparare come va fatto.",
+        "author": "Vincent van Gogh"
+    },
+    {
+        "quote": "Non è tanto il linguaggio del pittore che si deve sentire, quanto quello della natura.",
+        "author": "Vincent van Gogh"
+    },
+    {
+        "quote": "Il modo migliore di amare la vita è amare molte cose.",
+        "author": "Vincent van Gogh"
+    },
+    {
+        "quote": "I libri la realtà e l’arte sono una sola cosa per me.",
+        "author": "Vincent van Gogh"
+    },
+    {
+        "quote": "L’eleganza non è farsi notare, ma farsi ricordare.",
+        "author": "Giorgio Armani"
+    },
+    {
+        "quote": "La legge del lusso non è aggiungere, ma togliere.",
+        "author": "Giorgio Armani"
+    },
+    {
+        "quote": "Chi fa la moda è un artista legato strettamente a doppio filo all’industria.",
+        "author": "Giorgio Armani"
+    },
+    {
+        "quote": "La volgarità è la malattia della finta modernità.",
+        "author": "Giorgio Armani"
+    },
+    {
+        "quote": "Il creativo sicuro è un cretino.",
+        "author": "Giorgio Armani"
+    },
+    {
+        "quote": "La bontà mi sembra una qualità un po’ modesta. L’ambizione è una grande qualità.",
+        "author": "Giorgio Armani"
+    },
+    {
+        "quote": "La comodità. Dormo con addosso una t-shirt bianca.",
+        "author": "Giorgio Armani"
+    },
+    {
+        "quote": "Eleganza è intelligenza e misura.",
+        "author": "Giorgio Armani"
+    },
+    {
+        "quote": "Un uomo può indossare ciò che vuole. Resterà sempre un accessorio della donna.",
+        "author": "Gabrielle (Coco) Bonheur Chanel"
+    },
+    {
+        "quote": "La moda passa, lo stile resta.",
+        "author": "Gabrielle (Coco) Bonheur Chanel"
+    },
+    {
+        "quote": "Se sei nato senza ali, non fare mai nulla per impedire loro di crescere.",
+        "author": "Gabrielle (Coco) Bonheur Chanel"
+    },
+    {
+        "quote": "La natura ti dà la faccia che hai a vent’anni; è compito tuo meritarti quella che avrai a cinquant’anni.",
+        "author": "Gabrielle (Coco) Bonheur Chanel"
+    },
+    {
+        "quote": "C’è un momento per lavorare, e uno per amare. Il che non lascia altro tempo a disposizione.",
+        "author": "Gabrielle (Coco) Bonheur Chanel"
+    },
+    {
+        "quote": "La semplicità è la nota fondamentale di ogni vera eleganza.",
+        "author": "Gabrielle (Coco) Bonheur Chanel"
+    },
+    {
+        "quote": "Il colore migliore di tutto il mondo è quello che sembra stare bene su di te.",
+        "author": "Gabrielle (Coco) Bonheur Chanel"
+    },
+    {
+        "quote": "Pentiti sensatamente. Non mi pento di nulla nella mia vita, eccetto di quello che non ho fatto.",
+        "author": "Gabrielle (Coco) Bonheur Chanel"
+    },
+    {
+        "quote": "Una donna dovrebbe indossare il proprio profumo ovunque le piace essere baciata.",
+        "author": "Gabrielle (Coco) Bonheur Chanel"
+    },
+    {
+        "quote": "Se hai capito che gli uomini sono dei bambini allora hai capito tutto della vita.",
+        "author": "Gabrielle (Coco) Bonheur Chanel"
+    },
+    {
+        "quote": "Io non faccio la moda, io sono la moda.",
+        "author": "Gabrielle (Coco) Bonheur Chanel"
+    },
+    {
+        "quote": "La moda è fatta per diventare fuori moda.",
+        "author": "Gabrielle (Coco) Bonheur Chanel"
+    },
+    {
+        "quote": "La bellezza serve a noi donne per essere amate dagli uomini, la stupidità per amare gli uomini.",
+        "author": "Gabrielle (Coco) Bonheur Chanel"
+    },
+    {
+        "quote": "Nessun uomo ti farà sentire protetta e al sicuro come un cappotto di cachemire e un paio di occhiali neri.",
+        "author": "Gabrielle (Coco) Bonheur Chanel"
+    },
+    {
+        "quote": "Non si è mai troppo ricche, né troppo magre.",
+        "author": "Gabrielle (Coco) Bonheur Chanel"
+    },
+    {
+        "quote": "A trent’anni, una donna deve scegliere tra il suo didietro e il suo volto.",
+        "author": "Gabrielle (Coco) Bonheur Chanel"
+    },
+    {
+        "quote": "Si può essere splendidi a trent’anni, affascinanti a quarant’anni, e irresistibili per il resto della tua vita.",
+        "author": "Gabrielle (Coco) Bonheur Chanel"
+    },
+    {
+        "quote": "Una donna è più vicina ad essere nuda quando è ben vestita.",
+        "author": "Gabrielle (Coco) Bonheur Chanel"
+    },
+    {
+        "quote": "Alcune persone pensano che il lusso sia l’opposto della povertà. Non lo è. È l’opposto della volgarità.",
+        "author": "Gabrielle (Coco) Bonheur Chanel"
+    },
+    {
+        "quote": "Io non sono italiana, sono napoletana!… È un’altra cosa.",
+        "author": "Sophia Loren"
+    },
+    {
+        "quote": "Tutto quello che vedete lo devo agli spaghetti.",
+        "author": "Sophia Loren"
+    },
+    {
+        "quote": "Una donna che sa fare la pasta a regola d’arte ha un prestigio che resiste anche oggi a qualsiasi altro richiamo dei tempi.",
+        "author": "Sophia Loren"
+    },
+    {
+        "quote": "Il cinema non è una cosa facile, non è come bere un bicchiere di champagne e vai.",
+        "author": "Sophia Loren"
+    },
+    {
+        "quote": "Ho sempre voluto fare l’attrice. Fin da bambina, non ho mai avuto dubbi.",
+        "author": "Sophia Loren"
+    },
+    {
+        "quote": "Fare l’attrice è come andare in guerra. Bisogna avere determinazione, scansare tanti pericoli.",
+        "author": "Sophia Loren"
+    },
+    {
+        "quote": "Il mio unico rimpianto? Non essere mai stata bambina.",
+        "author": "Sophia Loren"
+    },
+    {
+        "quote": "Fate lavorare la fantasia, oltre le mani, questo è il mio pensiero, anche in cucina.",
+        "author": "Sophia Loren"
+    },
+    {
+        "quote": "Sì, posso dire che sono nata una seconda volta il giorno in cui il mio primo bambino vide la luce.",
+        "author": "Sophia Loren"
+    },
+    {
+        "quote": "La vita non è un gioco facile, richiede serietà e buon umore.",
+        "author": "Sophia Loren"
+    },
+    {
+        "quote": "Il caffè è il balsamo del cuore e dello spirito.",
+        "author": "Giuseppe Verdi"
+    },
+    {
+        "quote": "Ognuno dovrebbe provare rispetto davanti all'umanità che soffre.",
+        "author": "Giuseppe Verdi"
+    },
+    {
+        "quote": "Torniamo all'antico e sarà un progresso.",
+        "author": "Giuseppe Verdi"
+    },
+    {
+        "quote": "La Storia è una crosta di sangue.",
+        "author": "Claudio Magris"
+    },
+    {
+        "quote": "Bisogna sempre rispettare e proteggere i libri. Anche quelli che non piacciono.",
+        "author": "Claudio Magris"
+    },
+    {
+        "quote": "Dammi i lussi della vita e farò volentieri a meno delle cose necessarie.",
+        "author": "Frank Lloyd Wright"
+    },
+    {
+        "quote": "Molti benestanti sono poco più che custodi dei loro averi.",
+        "author": "Frank Lloyd Wright"
+    },
+    {
+        "quote": "Il genio non è altro che la fanciullezza richiamata a comando.",
+        "author": "Frank Lloyd Wright"
+    },
+    {
+        "quote": "Ribalta il mondo di lato e tutto quello che non è fissato finirà a Los Angeles.",
+        "author": "Frank Lloyd Wright"
+    },
+    {
+        "quote": "Amore, fino ad oggi ti ho amato. Da oggi in poi ti adoro.",
+        "author": "Luciano Pavarotti"
+    },
+    {
+        "quote": "La musica imparata leggendo, è come fare l'amore per posta.",
+        "author": "Luciano Pavarotti"
+    },
+    {
+        "quote": "Vi prego di essermi testimoni che vado incontro al mio destino come uomo coraggioso.",
+        "author": "Andrea Bocelli"
+    },
+    {
+        "quote": "È la fede quella che fa gli eretici. Non ci sono più eresie in una religionemorta",
+        "author": "Andrea Bocelli"
+    },
+    {
+        "quote": "Quello che non ho, è quel che non mi manca.",
+        "author": "Andrea Bocelli"
+    },
+    {
+        "quote": "La verità vi farà liberi ma prima vi renderà infelici.",
+        "author": "Andrea Bocelli"
+    },
+    {
+        "quote": "Un senso di colpa già esistente vi permette di non dover viverne uno successivo.",
+        "author": "Andrea Bocelli"
+    },
+    {
+        "quote": "Lei e lui, lui e lei; l'essenza, la sostanza; la forza inspiegabile e irresistibile che li tiene stretti uno all'altra.",
+        "author": "Andrea Bocelli"
+    },
+    {
+        "quote": "Fai attenzione al tuo carattere, diventa il tuo destino.",
+        "author": "Andrea Bocelli"
+    },
+    {
+        "quote": "Ho avuto sempre pochissime idee, ma in compenso fisse.",
+        "author": "Andrea Bocelli"
+    },
+    {
+        "quote": "È dai dubbi che nascono le idee più interessanti.",
+        "author": "Andrea Bocelli"
+    },
+    {
+        "quote": "Mentre lui le insegnava a fare l’amore lei gli insegnava ad amare.",
+        "author": "Andrea Bocelli"
+    },
+    {
+        "quote": "La solitudine può portare a forme straordinarie di libertà.",
+        "author": "Andrea Bocelli"
+    },
+    {
+        "quote": "L'arte fa soltanto dei versi: solo il cuore è poeta.",
+        "author": "Andrea Bocelli"
+    },
+    {
+        "quote": "Quando è possibile, bisogna far ridere perfino i morti.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Il piacere più nobile è la gioia della comprensione.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Reprendi l’amico in segreto e laudalo in paleso.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Colui che più possiede, è colui che più ha paura di perdere.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "I dettagli fanno la perfezione e la perfezione non è un dettaglio.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Il mezzo più efficace di ottener fama è quello di far credere al mondo di esser già famoso.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "La pittura è una poesia muta, e la poesia è una pittura cieca.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Il dipintore disputa e gareggia colla natura.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Chi non può quel che vuol, quel che può voglia.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Non si volta chi a stella è fisso.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Chi non stima la vita non la merita.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "La sapienza è figliola della sperienza.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "L’esperienza è il solo insegnante in cui possiamo confidare.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Chi si promette dalla sperienza quel che non è in lei si discosta dalla ragione.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Se tu sarai solo, tu sarai tutto tuo.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Tristo è quel discepolo che non avanza il maestro.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Come è più difficile a ‘ntendere l’opere di natura che un libro d’un poeta.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Il desiderio di conoscere è naturale per le brave persone.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "I sensi sono terrestri, la ragione sta for di quelli quando contempla.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "La semplicità è l’ultima sofisticazione.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Nissuna cosa è che più c’inganni che ‘l nostro giudizio.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Chi vuol esser ricco in un dì, è impiccato in un anno.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Chi nega la ragion delle cose, pubblica la sua ignoranza.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Lo corpo nostro è sottoposto al cielo, e lo cielo è sottoposto allo spirito.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Un vaso rotto crudo si può riformare, ma il cotto no.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Chi non punisce il male, comanda che si facci.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Chi non raffrena la volontà colle bestie s’accompagni.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Dov’è più sentimento, lì è più ne’ martiri gran martire.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Chi tempo ha e tempo aspetta, perde l’amico e danari non ha mai.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Niente puo essere amato o odiato se non è prima conosciuto.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Il matrimonio è come mettere la mano in un sacco di serpenti nella speranza di tirarne fuori un’anguilla.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "È meglio la piccola certezza che la grande bugia.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "La funzione del muscolo è di tirare e non di spingere, eccezion fatta per i genitali e la lingua.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Anche il più piccolo felino è un capolavoro.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Ogni impedimento è distrutto dal rigore.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "D’ogni cosa la parte ritiene in sé la natura del tutto.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Quando lo spirito non collabora con le mani non c’è arte.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Uno non può possedere capacità più grande o più piccola della padronanza di se stesso.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "La natura è piena d’infinite ragioni che non furon mai in isperienza.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Questo per isperienza è provato, che chi non si fida mai sarà ingannato.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Perché si vede più certa la cosa l’occhio ne’ sogni che colla immaginazione stando desto.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Chi disputa allegando l’autorità, non adopra l’ingegno, ma piuttosto la memoria.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Lo specchio si gloria forte tenendo dentro a sé specchiata la regina e, partita quella, lo specchio riman vile.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Natura non rompe sua legge.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "La scienza è il capitano, e la pratica sono i soldati.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Il moto è causa d’ogni vita.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Nessuno effetto è in natura sanza ragione; intendi la ragione e non ti bisogna sperienza.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Sì come ogni regno in sé diviso è disfatto, così ogni ingegno diviso in diversi studi si confonde e indebolisce.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Nessuna cosa è da temere quanto la sozza fama. Questa sozza fama è nata da’ vizi.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Non appena nasce la virtù, nasce contro di lei l’invidia e farà prima il corpo a perdere la sua ombra che la virtù la sua invidia.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Nessuna cosa è più veloce che gli anni, e chi semina virtù fama raccoglie.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "La vita bene spesa lunga è.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Amor onni cosa vince.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Chi poco pensa, molto erra.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Chi più possiede, più debbe temere di non perdere.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "La forza vive per violenza e more per libertà.",
+        "author": "Leonardo da Vinci"
+    },
+    {
+        "quote": "Michel, più che mortale, Angel divino.",
+        "author": "Ludovico Ariosto"
+    },
+    {
+        "quote": "E ben debbo io osservarvi che il mondo ha molti re e un sol Michelagnolo.",
+        "author": "Pietro Aretino"
+    },
+    {
+        "quote": "Se non è Michelangelo è Dio.",
+        "author": "Federico Zeri"
+    },
+    {
+        "quote": "Michelangelo è cosa piuttosto celeste che terrena.",
+        "author": "Giorgio Vasari"
+    },
+    {
+        "quote": "L’amore è l’ala che Dio ha dato all’anima per salire sino a lui.",
+        "author": "Michelangelo Buonarroti"
+    },
+    {
+        "quote": "Non nasce in me pensiero che non vi sia dentro sculpita la morte.",
+        "author": "Michelangelo Buonarroti"
+    },
+    {
+        "quote": "Il marmo è come l’uomo, prima di intraprendere qualcosa, devi conoscerlo bene e sapere tutto ciò che ha dentro.",
+        "author": "Michelangelo Buonarroti"
+    },
+    {
+        "quote": "Si dipinge col cervello et non con le mani.",
+        "author": "Michelangelo Buonarroti"
+    },
+    {
+        "quote": "Nulla somiglia maggiormente alla fonte celeste da cui proveniamo quanto le bellezze che si offrono agli occhi delle persone ricettive.",
+        "author": "Michelangelo Buonarroti"
+    },
+    {
+        "quote": "Desti a me quest'anima divina e poi la imprigionati in un corpo debole e fragile, com’è triste viverci dentro.",
+        "author": "Michelangelo Buonarroti"
+    },
+    {
+        "quote": "Tu vedi un blocco, pensa all’immagine: l’immagine è dentro, basta soltanto spogliarla.",
+        "author": "Michelangelo Buonarroti"
+    },
+    {
+        "quote": "Ch'assai acquista chi perdendo impara.",
+        "author": "Michelangelo Buonarroti"
+    },
+    {
+        "quote": "Se strisci sempre non cadi mai.",
+        "author": "Michelangelo Buonarroti"
+    },
+    {
+        "quote": "Il core è veramente la casa dell’anima.",
+        "author": "Michelangelo Buonarroti"
+    },
+    {
+        "quote": "L’uomo non de’ ridere quando ‘l mondo tutto piange.",
+        "author": "Michelangelo Buonarroti"
+    },
+    {
+        "quote": "Tutta la matematica del mondo non potrà mai supplire la mancanza di genio.",
+        "author": "Michelangelo Buonarroti"
+    },
+    {
+        "quote": "Sia dolce il dubbio a chi nuocer può ‘l vero.",
+        "author": "Michelangelo Buonarroti"
+    },
+    {
+        "quote": "E non so di che sorte sia la vita mia: perché sto sempre solo, vo poco attorno e non parlo a persona.",
+        "author": "Michelangelo Buonarroti"
+    },
+    {
+        "quote": "Io sto ancora imparando.",
+        "author": "Michelangelo Buonarroti"
+    },
+    {
+        "quote": "La mia allegrezza è la malinconia.",
+        "author": "Michelangelo Buonarroti"
+    },
+    {
+        "quote": "Signore, fa che io possa sempre desiderare più di quanto riesca a realizzare.",
+        "author": "Michelangelo Buonarroti"
+    },
+    {
+        "quote": "Se la gente sapesse quante ore ho sudato per realizzarlo, non mi considererebbe un genio.",
+        "author": "Michelangelo Buonarroti"
+    },
+    {
+        "quote": "Io dipingo come un uccello canta.",
+        "author": "Claude Monet"
+    },
+    {
+        "quote": "Dipingo quello che vedo, dipingo quello che ricordo e dipingo quello che sento.",
+        "author": "Claude Monet"
+    },
+    {
+        "quote": "Ogni colore che noi vediamo nasce dall’influenza del suo vicino.",
+        "author": "Claude Monet"
+    },
+    {
+        "quote": "Non ho fatto altro che guardare ciò che mi ha mostrato l’universo.",
+        "author": "Claude Monet"
+    },
+    {
+        "quote": "Ciò che tiene sveglio il mio cuore è il silenzio colorato.",
+        "author": "Claude Monet"
+    },
+    {
+        "quote": "Fra cent'anni diranno che sono uno che ha scoperto l'acqua calda.",
+        "author": "Enzo Ferrari"
+    },
+    {
+        "quote": "Aliena vitia in oculis habemus, a tergo nostra sunt.",
+        "author": "Seneca"
+    },
+    {
+        "quote": "Chi mal opra, male al fine aspetta.",
+        "author": "Ludovico Ariosto"
+    },
+    {
+        "quote": "Quando ti alzi al mattino pensa a quale privilegio sia essere vivi pensare gioire a mare.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Ognuno vale quanto le cose a cui dà importanza.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Ciò che non giova all'alveare non giova neppure all'ape.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Tutto ciò che sentiamo è un'opinione non un fatto tutto ciò che vediamo è una prospettiva non la verità.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Le conseguenze della collera sono molto più gravi delle sue cause.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Devi sempre agire parlare e pensare come se quell'istante fosse l'ultimo della tua vita.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Niente accade mai che non si sia per natura capaci di sopportarlo.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Non lo fare se non conviene non lo dire se non è verità.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Nulla viene dal nulla come nulla ritorna nel nulla.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "La prima regola è di mantenere uno spirito libero da preoccupazioni la seconda è di guardare le cose in faccia e conoscerle.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Contro le cose non conviene adirarsi già che esse non se ne curano affatto.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Agisci sempre secondo il tuo volere e dopo un'attenta riflessione non lasciandoti trascinare da altri.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Non lasciare mai che il futuro ti disturbi lo incontrerà i se così deve essere con gli stessi poteri della ragione che oggi tier mano contro il presente.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "A ogni cosa tende e cerca col tuo voler essere a te stesso bello e in ogni cosa che fai.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Ricevi il benessere e la prosperità senza arroganza e si pronto a lasciarlo andare.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Quanto guadagna in tranquillità chi non si preoccupa di cose il vicino dice fa o pensa ma solo di ciò che egli stesso fa.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Quanto tempo libero guadagna chi non va da quel che dice o fa o pensa il suo vicino ma si interessa solo delle proprie azioni avendo cura che siano giuste e sante cioè conformi alla condotta di un uomo virtuoso.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Sono contento quando una piccola cosa progredisce.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Non dura che un giorno ogni cosa tanto ciò che ricorda quanto ciò che è ricordato.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Il cambiare opinione e il seguire che ti corregge è ugualmente cosa da uomo libero.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Lo scopo della vita non è essere dalla parte della maggioranza ma evitare di trovarsi nelle file dei pazzi.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Spesso sbaglia non solo chi fa ma anche chi non fa qualche cosa.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Il modo migliore per difendersi da un nemico è di non comportarsi come lui.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Niente ha il potere di allargare tanto la mente quanto l'investigazione sistematica dei fatti osservabili.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Stel je de dingen niet voor zoals de pestkop ze beoordeelt of zoals hij wil dat jij ze beoordeelt, maar weet hoe je ze moet zien zoals ze werkelijk zijn.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Non pensare da padroneggiare per te sia impossibile per l'uomo ma se una cosa è possibile e appropriata l'uomo considera la ottenibile da te.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Qualcuno ha paura del cambiamento cosa c'è allora di più consono alla natura universale può qualsiasi cosa che sia utile essere ottenuta senza cambiamento.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Tieni costantemente a mente in quante cose tu stesso hai testimoniato di essere già cambiato l'universo è cambiato la vita e comprensione.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Tu puoi ogni volta che lo desideri ritirarti in te stesso nessun ritiro è più tranquillo nemmeno disturbato per l'uomo che quello che trova nella sua anima.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Vivere è un'arte che assomiglia più alla lotta che alla danza perché bisogna sempre tenersi pronti e saldi contro i colpi che ci arrivano imprevisti.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Permette tranquilla non intendo altro che una mente ben ordinata.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Non discutere più di come debba essere uomo perbene ma sì l'ho.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "A maggior parte delle cose che diciamo e facciamo non sono necessarie chi le eliminerà dalla sua vita sarà più tranquillo e imperturbato.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Prendi senza orgoglio rinunzia senza difficoltà.",
+        "author": "Marco Aurelio"
+    },
+    {
+        "quote": "Nulla è nella mente che prima non sia stato nei sensi.",
+        "author": "San Tommaso D’Aquino"
+    },
+    {
+        "quote": "Quando la fede non coincide con la ragione bisogna astenersi dal dare ragione alla fede.",
+        "author": "San Tommaso D’Aquino"
+    },
+    {
+        "quote": "Quando i ricchi consumano per i loro fini personali il sovrappiù necessario alla sussistenza dei poveri, essi li derubano.",
+        "author": "San Tommaso D’Aquino"
+    },
+    {
+        "quote": "Amare è volere il bene di qualcuno.",
+        "author": "San Tommaso D’Aquino"
+    },
+    {
+        "quote": "Alle verità che trascendono la nostra natura è necessario aderire con la fede, e ciò che crediamo lo dobbiamo all‘autorità.",
+        "author": "San Tommaso D’Aquino"
+    },
+    {
+        "quote": "L'amore ci raccoglie dove la conoscenza ci lascia.",
+        "author": "San Tommaso D’Aquino"
+    },
+    {
+        "quote": "Le virtù morali appartengono alla contemplazione in quanto disposizioni preliminari.",
+        "author": "San Tommaso D’Aquino"
+    },
+    {
+        "quote": "Il giudice è l'interprete della giustizia.",
+        "author": "San Tommaso D’Aquino"
+    },
+    {
+        "quote": "L'uomo è molto più certo di ciò che ascolta che di ciò che vede.",
+        "author": "San Tommaso D’Aquino"
+    },
+    {
+        "quote": "Gli amici veri si rallegrano e si rattristano delle medesime cose.",
+        "author": "San Tommaso D’Aquino"
+    },
+    {
+        "quote": "Nel bisogno tutte le ricchezze sono in comune.",
+        "author": "San Tommaso D’Aquino"
+    },
+    {
+        "quote": "Il bene può esistere senza il male, laddove il male non può esistere senza il bene.",
+        "author": "San Tommaso D’Aquino"
+    },
+    {
+        "quote": "Un uomo non è disposto a dare la sua vita in nome del bene se non crede che il bene è superiore alla sua vita.",
+        "author": "San Tommaso D’Aquino"
+    },
+    {
+        "quote": "La ragione giustifica l'individuo ma non i suoi atti.",
+        "author": "San Tommaso D’Aquino"
+    },
+    {
+        "quote": "Un uomo si scorda delle proprie esperienze se non le trasforma in azioni.",
+        "author": "San Tommaso D’Aquino"
+    }
+]
